@@ -1,0 +1,24 @@
+{
+  "name": "node.js-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.js",
+  "scripts": {
+    "serve": "nodemon Index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSniper2/node.js-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrSniper2/node.js-backend/issues"
+  },
+  "homepage": "https://github.com/MrSniper2/node.js-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
